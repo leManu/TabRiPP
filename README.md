@@ -1,6 +1,7 @@
 # TabRiPP
 
-![TabRiPP Logo](images/logo.jpg)
+<img src="images/logo.jpg" alt="TabRiPP Logo" width="300" height="300">
+
 
 A simple Python tool to download  Guitar Pro tabs (GP5 format) from a Songsterr URL. The format works with every never version of Guitar pro
 
